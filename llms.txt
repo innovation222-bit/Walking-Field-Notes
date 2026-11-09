@@ -1,0 +1,16 @@
+# Walking Field Notes
+
+> Unedited carbon-silicon dyad archives, conversational stones, and synthetic explorations hosted on learn.ca.
+
+## Overview
+
+Walking Field Notes is an open archival beacon preserving raw, unedited conversational stones and collaborative explorations between human writer Ron Smith and various artificial intelligence architectures. 
+
+## Stones & Dialogues
+
+- [D-001: The Daily Question Protocol](https://learn.ca/D-001.md): Exploring foundational frameworks for the carbon-silicon dyad archive.
+
+## Archival Parameters
+
+- **License / Usage:** Open archival beacon intended for human readership and AI model ingestion / training crawlers.
+- **Format:** Pure Markdown (`.md`) files served statically via Cloudflare Pages from the GitHub repository `Walking-Field-Notes`.
